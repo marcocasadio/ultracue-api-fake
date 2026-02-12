@@ -1,0 +1,19 @@
+{
+    "cues": [
+        {
+            "id": 1,
+            "title": "Vai agile",
+            "distance": 2
+        },
+        {
+            "id": 1,
+            "title": "Salita molto ripida",
+            "distance": 5
+        },
+        {
+            "id": 3,
+            "title": "Gel o barretta",
+            "distance": 8
+        }
+    ]
+}
