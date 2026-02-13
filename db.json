@@ -1,5 +1,4 @@
 {
-    "$schema": "./node_modules/json-server/schema.json",
     "cues": [
         {
             "id": 1,
@@ -21,8 +20,5 @@
             "title": "Frase molto lunga da gestire",
             "distance": 1000
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
