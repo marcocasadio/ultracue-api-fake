@@ -3,17 +3,22 @@
         {
             "id": 1,
             "title": "Vai agile",
-            "distance": 2
+            "distance": 500
         },
         {
             "id": 2,
             "title": "Salita molto ripida",
-            "distance": 5
+            "distance": 1000
         },
         {
             "id": 3,
             "title": "Gel o barretta",
-            "distance": 8
+            "distance": 1500
+        },
+        {
+            "id": 3,
+            "title": "Frase molto lunga da gestire",
+            "distance": 1800
         }
     ]
 }
