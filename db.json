@@ -1,24 +1,28 @@
 {
+    "$schema": "./node_modules/json-server/schema.json",
     "cues": [
         {
             "id": 1,
             "title": "Vai agile",
-            "distance": 500
+            "distance": 200
         },
         {
             "id": 2,
             "title": "Salita molto ripida",
-            "distance": 1000
+            "distance": 500
         },
         {
             "id": 3,
             "title": "Gel o barretta",
-            "distance": 1500
+            "distance": 700
         },
         {
             "id": 3,
             "title": "Frase molto lunga da gestire",
-            "distance": 1800
+            "distance": 1000
         }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
