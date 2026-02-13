@@ -16,9 +16,14 @@
             "distance": 700
         },
         {
-            "id": 3,
+            "id": 4,
             "title": "Frase molto lunga da gestire",
             "distance": 1000
+        },
+        {
+            "id": 5,
+            "title": "Cue lontano",
+            "distance": 2400
         }
     ]
 }
