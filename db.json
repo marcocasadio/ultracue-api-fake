@@ -1,4 +1,6 @@
 {
+    "name": "Test",
+    "version": 1,
     "cues": [
         {
             "id": 1,
